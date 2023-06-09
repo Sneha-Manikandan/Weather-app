@@ -1,0 +1,29 @@
+.mycontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(251, 193, 235);
+    max-width: 18rem;
+    padding: 30px;
+    width: 500px;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    border-radius: 20px;
+    border: 1px solid;
+}
+.card-header {
+    text-align: center;
+}
+.card-text {
+    font-size: large;
+    font-weight: 500;
+}
+
+.card-text img{
+    width: 1em;
+}
+
+h2 {
+    font-size: xx-large;
+} 

@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "fullname": "Sneha",
+      "email": "sneham.cse@citchennai.net",
+      "password": "welcometocit",
+      "mobile": 8825933478,
+      "id": 2
+    },
+    {
+      "fullname": "Roshni",
+      "email": "roshinipcs.cse2020@citchennai.net",
+      "password": "welcometocit",
+      "mobile": 9884213373,
+      "id": 3
+    },
+    {
+      "fullname": "Tejasvine",
+      "email": "tejasvinem.cse2020@citchennai.net",
+      "password": "welcome",
+      "mobile": 1234567890,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
